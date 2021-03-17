@@ -1,0 +1,20 @@
+body{
+    margin: auto;
+    padding: 10px;
+}
+
+#submit, #cancel{
+    float: right;
+}
+
+.container{
+    border: 1px;
+}
+#checkRadio{
+    background-color: gray;
+    height: 10%;
+    width: 50px
+}
+#accept{
+    inline-size: none;
+}
